@@ -1,4 +1,4 @@
-### Hi there 👋
+### Tech Stack 👋
 
 ![Static Badge](https://img.shields.io/badge/HTML-maker?color=%23f07e33)
 ![Static Badge](https://img.shields.io/badge/CSS%2FSASS-maker?color=%23eb13aa)
