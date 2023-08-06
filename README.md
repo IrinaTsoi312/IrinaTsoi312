@@ -10,7 +10,8 @@
 ![Static Badge](https://img.shields.io/badge/Prettier-maker?color=%23cc330d)
 ![Static Badge](https://img.shields.io/badge/Husky-maker?color=%23a5005b)
 
-[![Version](https://img.shields.io/badge/Version-1.0.0-blue)](https://example.com)
+[![Custom Icon](https://img.shields.io/badge/Custom-Icon-https://github.com/bokievkhushnud/ecommerce-shop/blob/comprehensive-readme/images/html-5-svgrepo-com.svg)](https://example.com)
+
 
 <!--
 **IrinaTsoi312/IrinaTsoi312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
