@@ -1,6 +1,6 @@
 ### Tech Stack 👋
 
-![HTML]([https://img.shields.io/badge/HTML-maker?logo=javascript&color=%23414141&link=https%3A%2F%2Fgithub.com%2Fbokievkhushnud%2Fecommerce-shop%2Fblob%2Fcomprehensive-readme%2Fimages%2Fhtml-5-svgrepo-com.svg](https://github.com/bokievkhushnud/ecommerce-shop/blob/comprehensive-readme/images/html-5-svgrepo-com.svg))
+[![HTML]([https://img.shields.io/badge/HTML-maker?logo=javascript&color=%23414141&link=https%3A%2F%2Fgithub.com%2Fbokievkhushnud%2Fecommerce-shop%2Fblob%2Fcomprehensive-readme%2Fimages%2Fhtml-5-svgrepo-com.svg](https://github.com/bokievkhushnud/ecommerce-shop/blob/comprehensive-readme/images/html-5-svgrepo-com.svg))]
 ![Static Badge](https://img.shields.io/badge/CSS%2FSASS-maker?color=%23eb13aa)
 ![Static Badge](https://img.shields.io/badge/Javascript-maker?color=%231580fc)
 ![Static Badge](https://img.shields.io/badge/React%20JS-maker?color=%239212fc)
