@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![Static Badge](https://img.shields.io/badge/Javascript-maker?color=%231580fc)
+![Static Badge](https://img.shields.io/badge/React%20JS-maker?color=%239212fc)
+![Static Badge](https://img.shields.io/badge/Typescript-maker?color=%2333f043)
+
+
 <!--
 **IrinaTsoi312/IrinaTsoi312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
