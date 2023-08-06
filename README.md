@@ -1,5 +1,6 @@
 ### Tech Stack 👋
 
+![Static Badge](https://img.shields.io/badge/HTML-maker?color=%23f07e33)
 ![Static Badge](https://img.shields.io/badge/CSS%2FSASS-maker?color=%23eb13aa)
 ![Static Badge](https://img.shields.io/badge/Javascript-maker?color=%231580fc)
 ![Static Badge](https://img.shields.io/badge/React%20JS-maker?color=%239212fc)
