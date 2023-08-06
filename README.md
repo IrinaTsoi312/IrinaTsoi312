@@ -12,6 +12,7 @@
 
 [![Custom Icon](https://img.shields.io/badge/Custom-Icon-https://github.com/bokievkhushnud/ecommerce-shop/blob/comprehensive-readme/images/html-5-svgrepo-com.svg)](https://example.com)
 
+[![Custom Icon](https://img.shields.io/endpoint?url=https://github.com/bokievkhushnud/ecommerce-shop/blob/comprehensive-readme/images/html-5-svgrepo-com.svg)](https://example.com)
 
 
 <!--
