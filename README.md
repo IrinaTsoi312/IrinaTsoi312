@@ -10,7 +10,7 @@
 ![Static Badge](https://img.shields.io/badge/Prettier-maker?color=%23cc330d)
 ![Static Badge](https://img.shields.io/badge/Husky-maker?color=%23a5005b)
 
-[![Custom](https://img.shields.io/endpoint?url=https://github.com/bokievkhushnud/ecommerce-shop/blob/comprehensive-readme/images/html-5-svgrepo-com.svg)](https://example.com)
+[![HTML](https://img.shields.io/endpoint?url=https://github.com/bokievkhushnud/ecommerce-shop/blob/comprehensive-readme/images/html-5-svgrepo-com.svg)](https://example.com)
 
 
 <!--
