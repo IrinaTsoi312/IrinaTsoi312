@@ -9,7 +9,7 @@
 ![Static Badge](https://img.shields.io/badge/ESlint-maker?color=%231ec0c5)
 ![Static Badge](https://img.shields.io/badge/NodeJS%20JS-maker?color=%239212fc)
 ![Static Badge](https://img.shields.io/badge/Prettier-maker?color=%23cc330d)
-![Static Badge](https://img.shields.io/badge/Husky-maker?color=%23a5005b)
+![Static Badge](https://img.shields.io/badge/Angular-maker?color=%23a5005b)
 
 
 <!--
