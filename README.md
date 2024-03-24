@@ -10,6 +10,7 @@
 ![Static Badge](https://img.shields.io/badge/Node%20JS%20(Basic)-maker?color=%239212fc)
 ![Static Badge](https://img.shields.io/badge/Prettier-maker?color=%23cc330d)
 ![Static Badge](https://img.shields.io/badge/AngularJS%20(Basic)-maker?color=%23a5005b)
+![Static Badge](https://img.shields.io/badge/Vue%20JS%20(Basic)-maker?color=%239212fc)
 
 
 <!--
