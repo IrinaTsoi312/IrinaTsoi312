@@ -5,12 +5,7 @@
 ![Static Badge](https://img.shields.io/badge/Javascript-maker?color=%231580fc)
 ![Static Badge](https://img.shields.io/badge/React-maker?color=%239212fc)
 ![Static Badge](https://img.shields.io/badge/Typescript-maker?color=%2333f043)
-![Static Badge](https://img.shields.io/badge/ESlint-maker?color=%231ec0c5)
 ![Static Badge](https://img.shields.io/badge/Next.js-maker?color=%23eb13aa)
-![Static Badge](https://img.shields.io/badge/NodeJS%20(Basic)-maker?color=%2333f043)
-![Static Badge](https://img.shields.io/badge/Prettier-maker?color=%23cc330d)
-![Static Badge](https://img.shields.io/badge/Angular%20(Basic)-maker?color=%23a5005b)
-![Static Badge](https://img.shields.io/badge/VueJS%20(Basic)-maker?color=%239212fc)
 
 
 <!--
