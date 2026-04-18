@@ -1,5 +1,9 @@
 ### Tech Stack 👋
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,react,vite,nextjs,nodejs,npm,nestjs,postgres)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=docker,jenkins,redux,jest,materialui,tailwind)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,bitbucket,figma,vscode,idea)](https://skillicons.dev)
 
 
 
