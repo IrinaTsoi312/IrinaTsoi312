@@ -1,5 +1,4 @@
 ### Tech Stack 👋:
-![docker](https://www.readmecodegen.com/api/social-icon?name=docker&size=96)
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,react,vite,nextjs,nodejs,npm,nestjs,postgres)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=git,docker,jenkins,redux,jest,materialui,tailwind)](https://skillicons.dev)
