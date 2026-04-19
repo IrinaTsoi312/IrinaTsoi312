@@ -1,5 +1,4 @@
 ### Tech Stack 👋:
-[![forthebadge](https://forthebadge.com/api/badges/community/019d47c5-2da3-7e45-af64-ed069c6bcf50.svg)](https://forthebadge.com)
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,react,vite,nextjs,nodejs,npm,nestjs,postgres)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=git,docker,jenkins,redux,jest,materialui,tailwind)](https://skillicons.dev)
